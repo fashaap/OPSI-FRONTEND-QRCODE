@@ -1,0 +1,10 @@
+/* src/styles.css */
+@font-face {
+  font-family: 'digital-7';
+  src: url('../../assets/digital-7.ttf')
+}
+
+.scoreboard-font{
+  font-family: 'digital-7';
+}
+
